@@ -1,10 +1,11 @@
 ---
 layout: post
 title: 'Burp Suite: Repeater'
-date: 2024-01-03 13:39 +0000
+date: 2024-01-03 00:00 +0000
 categories: [Writeups, TryHackMe]
 tags: [burp-suite]
 ---
+
 # Burp Suite: Repeater
 
 
