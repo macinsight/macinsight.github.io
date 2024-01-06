@@ -16,14 +16,14 @@ timezone:
 
 title: Macinsights' Blog # the main title
 
-tagline: Everything Linux 
+tagline: Everything Linux
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://0xmac.io"
+url: "https://macinsight.net"
 
 github:
   username: macinsight # change to your github username
@@ -34,8 +34,8 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Jacob Hergemöller 
-  email: me@0xmac.io # change to your email address
+  name: Jacob Hergemöller
+  email: me@macinsight.net # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/macinsight # change to your github homepage
@@ -63,7 +63,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: # [light|dark]
+theme_mode: dark
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -89,7 +89,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
+    repo:
     repo_id:
     category:
     category_id:
